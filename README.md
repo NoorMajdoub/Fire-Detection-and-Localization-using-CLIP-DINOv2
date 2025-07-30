@@ -35,13 +35,6 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 
 ---
 
-##  Setup & Dependencies
-
-Install the following libraries before running the notebook:
-
-```bash
-pip install torch torchvision transformers opencv-python matplotlib pillow
-```
 
 **Required Libraries:**
 
@@ -95,8 +88,6 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 
 
-This project is provided **as-is** for **research and educational purposes**.
-Please review the licenses of:
 
 
 
