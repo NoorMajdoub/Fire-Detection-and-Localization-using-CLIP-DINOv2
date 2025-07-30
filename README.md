@@ -1,7 +1,7 @@
 
 #  Fire Detection and Localization Using CLIP and DINOv2
 
-## 📌 Project Overview
+##  Project Overview
 
 This Jupyter notebook implements a two-stage pipeline for **automatic fire detection and localization** in forest imagery using **state-of-the-art vision-language and self-supervised models**:
 
@@ -10,9 +10,9 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
-### 🔍 1. Fire Detection with CLIP-ViT
+###  1. Fire Detection with CLIP-ViT
 
 * Utilizes [CLIP](https://openai.com/research/clip) (Contrastive Language–Image Pretraining) for zero-shot classification.
 * Embeds image and prompt texts into a shared semantic space.
@@ -92,7 +92,7 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Developed and tested in a Kaggle notebook environment.
 * Models are sourced from Hugging Face Hub.
@@ -102,7 +102,7 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-## 📈 Future Work
+##  Future Work
 
 * Train or fine-tune models for improved robustness and generalization.
 * Extend pipeline to support:
@@ -114,7 +114,7 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-## 📜 License
+##  License
 
 This project is provided **as-is** for **research and educational purposes**.
 Please review the licenses of:
