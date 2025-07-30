@@ -119,5 +119,5 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 This project is provided **as-is** for **research and educational purposes**.
 Please review the licenses of:
 
-* [CLIP (OpenAI)](https://github.com/openai/CLIP)
+
 
