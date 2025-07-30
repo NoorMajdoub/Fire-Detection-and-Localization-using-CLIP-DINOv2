@@ -47,7 +47,7 @@ pip install torch torchvision transformers opencv-python matplotlib pillow
 
 * Python 3.8+
 * PyTorch (CUDA support recommended)
-* 🤗 Transformers (`CLIP`, `DINOv2`)
+*  Transformers (`CLIP`, `DINOv2`)
 * OpenCV, PIL, NumPy, Matplotlib
 
 ---
