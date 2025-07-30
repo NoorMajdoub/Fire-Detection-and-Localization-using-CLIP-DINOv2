@@ -35,7 +35,7 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 
 ---
 
-## ⚙️ Setup & Dependencies
+##  Setup & Dependencies
 
 Install the following libraries before running the notebook:
 
