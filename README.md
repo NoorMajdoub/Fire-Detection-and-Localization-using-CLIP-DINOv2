@@ -61,7 +61,7 @@ result, probs = detectfile("/path/to/image.jpg")
 print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 ```
 
-### 🔍 Fire Localization
+###  Fire Localization
 
 * Load DINOv2 model and a reference image (non-fire scene).
 * Extract patch features from both test and reference images.
