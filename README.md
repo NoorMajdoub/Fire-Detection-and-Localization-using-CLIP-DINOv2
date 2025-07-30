@@ -1,5 +1,5 @@
 
-# 🔥 Fire Detection and Localization Using CLIP and DINOv2
+#  Fire Detection and Localization Using CLIP and DINOv2
 
 ## 📌 Project Overview
 
