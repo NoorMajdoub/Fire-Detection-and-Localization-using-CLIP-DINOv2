@@ -23,7 +23,7 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 * Classification is based on cosine similarity between image and text embeddings.
 * Outputs class label (`fire` / `no fire`) along with probability scores.
 
-### 🗺️ 2. Fire Localization with DINOv2
+### 2. Fire Localization with DINOv2
 
 * Uses [DINOv2](https://github.com/facebookresearch/dinov2) for self-supervised feature extraction.
 * Extracts patch-level features from both:
