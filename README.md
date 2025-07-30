@@ -70,27 +70,6 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-## 📓 Notebook Structure
-
-1. **Initialization**
-
-   * Load models (CLIP & DINOv2)
-   * Set up device (CPU/GPU)
-2. **Detection Pipeline**
-
-   * Encode images and text prompts
-   * Compute similarity scores for binary classification
-3. **Localization Pipeline**
-
-   * Feature extraction per patch via DINOv2
-   * Patch-wise cosine similarity with a reference image
-   * Compute anomaly maps and visualize them
-4. **Visualization**
-
-   * Render original image with detection probability
-   * Overlay anomaly heatmap to show localized fire areas
-
----
 
 ##  Notes
 
