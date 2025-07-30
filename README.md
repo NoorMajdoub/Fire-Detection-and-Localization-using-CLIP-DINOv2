@@ -1,6 +1,3 @@
-Sure! Here's a more technically polished and professional version of your README, suitable for publication on GitHub or as part of a research project documentation:
-
----
 
 # 🔥 Fire Detection and Localization Using CLIP and DINOv2
 
