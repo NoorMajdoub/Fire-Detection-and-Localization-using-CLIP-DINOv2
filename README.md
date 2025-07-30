@@ -54,7 +54,7 @@ pip install torch torchvision transformers opencv-python matplotlib pillow
 
 ##  Usage
 
-### 🔥 Fire Detection
+###  Fire Detection
 
 ```python
 result, probs = detectfile("/path/to/image.jpg")
