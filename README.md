@@ -122,6 +122,5 @@ Please review the licenses of:
 * [CLIP (OpenAI)](https://github.com/openai/CLIP)
 * [DINOv2 (Meta AI)](https://github.com/facebookresearch/dinov2)
 
-before deploying in commercial or production environments.
 
 
