@@ -125,5 +125,3 @@ Please review the licenses of:
 before deploying in commercial or production environments.
 
 ---
-
-Let me know if you want this in Markdown format or want to generate badges or deployment instructions too.
