@@ -52,7 +52,7 @@ pip install torch torchvision transformers opencv-python matplotlib pillow
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 🔥 Fire Detection
 
