@@ -93,7 +93,7 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-##  License
+
 
 This project is provided **as-is** for **research and educational purposes**.
 Please review the licenses of:
