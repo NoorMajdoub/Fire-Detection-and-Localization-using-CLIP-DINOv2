@@ -1,6 +1,5 @@
 Notessss
 
-
 ## What is Dinov2
 Self-DIstillation with NO labels It’s a self-supervised vision foundation model
 
@@ -29,6 +28,7 @@ Final output: feature maps or global descriptors (we get overal feature map from
 How it is used in this project
 
 detect the regions of fire in the image Howwww
+
 
 ## help
 Extract patch-wise features from DINOv2.
