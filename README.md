@@ -7,7 +7,6 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 
 1. **Fire Detection** – Binary classification using OpenAI’s CLIP-ViT model.
 2. **Fire Localization** – Patch-level anomaly detection using Facebook’s DINOv2 model with cosine similarity for feature matching.
-
 ---
 
 ##  Methodology
