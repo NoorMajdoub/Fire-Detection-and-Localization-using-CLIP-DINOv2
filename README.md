@@ -67,7 +67,6 @@ print(f"Fire Detected: {bool(result)} | Probabilities: {probs}")
 
 ---
 
-
 ##  Notes
 
 * Developed and tested in a Kaggle notebook environment.
