@@ -1,4 +1,4 @@
-Notessss
+Notess
 
 ## What is Dinov2
 Self-DIstillation with NO labels It’s a self-supervised vision foundation model
