@@ -36,7 +36,6 @@ This Jupyter notebook implements a two-stage pipeline for **automatic fire detec
 
 **Notes:**
 To Do : test SAM approach for fire localization 
-Imporve the flow 
 
 ---
 
